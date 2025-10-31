@@ -101,8 +101,11 @@ trivy image chielochi/gt-app:latest
 ## Key Takeaways
 
 ✅ Distroless images drastically reduce attack surfaces
+
 ✅ SQLite runs securely with correct permissions
+
 ✅ Trivy scanning ensures ongoing vulnerability visibility
+
 ✅ Minimal runtime dependencies = faster, safer deployment
 
 
@@ -121,6 +124,3 @@ trivy image chielochi/gt-app:latest
 
 MIT License © 2025 Chielo Chi
 
-
-Would you like me to add a **Trivy scan result example section** (e.g., sample output and interpretation) to make it more complete?
-```
